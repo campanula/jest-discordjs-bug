@@ -1,3 +1,5 @@
+// Importing a file that imports discord.js
+
 import { Animals } from "../animal.mjs";
 
 describe("Testing 123", () => {
